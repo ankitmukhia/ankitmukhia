@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1> Hi there👋 </h1>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**ankitmukhia/ankitmukhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import FrontendDev from 'India';
 
-Here are some ideas to get you started:
+const Bio = ( Developer ) => {
+  name     : 'Ankit Mukhia';
+  title    : 'Front-end Developer';
+  location : 'Bangalore, India';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const Skills = ( Developer ) => {
+  languages  = ['JavaScript'];
+  frameworks(Library's) = ['React', 'React Native Learning ', 'Redux'];
+}
+```
+
+⭐️ From [AnkitMukhia](https://github.com/ankitmukhia)
