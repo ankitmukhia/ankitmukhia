@@ -2,7 +2,7 @@
 
 
 ```js
-import FrontendDev from 'India';
+import { Forntend, ReactNative } from 'India';
 
 const Bio = ( Developer ) => {
   name     : 'Ankit Mukhia';
@@ -12,7 +12,7 @@ const Bio = ( Developer ) => {
 
 const Skills = ( Developer ) => {
   languages  = ['JavaScript'];
-  frameworks(Library's) = ['React', 'React Native Learning ', 'Redux'];
+  frameworks(Library's) = ['React', 'React Native ', 'Redux', 'Node.js', 'MongoDB'];
 }
 ```
 
