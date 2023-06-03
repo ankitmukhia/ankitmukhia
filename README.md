@@ -1,8 +1,4 @@
 <h1> Hi there👋 </h1>
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
-
 ```js
 import FrontendDev from 'India';
 
